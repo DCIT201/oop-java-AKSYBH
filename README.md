@@ -40,7 +40,7 @@ Each vehicle class must:
 #### 4. Polymorphism Implementation
 Create interfaces and method overriding:
 - `Rentable` interface with methods:
-  - `rent(Customer customer, int days)`
+  - `rent(Customer Customer, int days)`
   - `returnVehicle()`
 - Override methods in each vehicle class
 - Demonstrate method overloading and overriding
@@ -75,7 +75,7 @@ Each vehicle class must implement unique:
 - Special features
 
 #### Customer Class
-- Manage customer rental history
+- Manage Customer rental history
 - Track current rentals
 - Implement rental eligibility checks
 
